@@ -1,0 +1,16 @@
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\bin\Debug\net5.0\Algorithm Program.exe
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\bin\Debug\net5.0\Algorithm Program.deps.json
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\bin\Debug\net5.0\Algorithm Program.runtimeconfig.json
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\bin\Debug\net5.0\Algorithm Program.runtimeconfig.dev.json
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\bin\Debug\net5.0\Algorithm Program.dll
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\bin\Debug\net5.0\Algorithm Program.pdb
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\obj\Debug\net5.0\Algorithm Program.csproj.AssemblyReference.cache
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\obj\Debug\net5.0\Algorithm Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\obj\Debug\net5.0\Algorithm Program.AssemblyInfoInputs.cache
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\obj\Debug\net5.0\Algorithm Program.AssemblyInfo.cs
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\obj\Debug\net5.0\Algorithm Program.csproj.CoreCompileInputs.cache
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\obj\Debug\net5.0\Algorithm Program.dll
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\obj\Debug\net5.0\refint\Algorithm Program.dll
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\obj\Debug\net5.0\Algorithm Program.pdb
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\obj\Debug\net5.0\Algorithm Program.genruntimeconfig.cache
+C:\Users\eg1001\Desktop\.net\Day16\Algorithm Program\Algorithm Program\Algorithm Program\obj\Debug\net5.0\ref\Algorithm Program.dll
